@@ -1,3 +1,15 @@
 {
-  "extends": "stylelint-config-standard"
+  "extends": ["stylelint-config-standard"],
+	"plugins": [
+		"stylelint-order"
+	],
+  "overrides": [
+		{
+			"files": ["**/*.{vue,html}"],
+			"customSyntax": "postcss-html"
+		}
+	],
+	"rules": {
+		"order/properties-alphabetical-order": true
+	}
 }

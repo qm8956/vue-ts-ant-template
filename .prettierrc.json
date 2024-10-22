@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/prettierrc",
+   "printWidth": 130,
+   "tabWidth": 2,
+   "semi": true,
+   "singleQuote": true,
+   "quoteProps": "as-needed",
+   "bracketSpacing": true,
+   "jsxSingleQuote": false,
+   "arrowParens": "avoid",
+   "insertPragma": false,
+   "requirePragma": false,
+   "proseWrap": "preserve",
+   "htmlWhitespaceSensitivity": "css",
+   "endOfLine": "auto",
+   "rangeStart": 0,
+   "rangeEnd": 0,
+   "vueIndentScriptAndStyle": false
+   }
