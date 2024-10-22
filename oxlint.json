@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "node_modules",
+    "dist",
+    ".git",
+    "*.min.js"
+  ],
+  "rules": {
+    "no-var": "error",
+    "prefer-const": "error",
+    "no-unused-vars": "error",
+    "eqeqeq": "error"
+  }
+}
