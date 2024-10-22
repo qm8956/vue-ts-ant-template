@@ -1,9 +1,28 @@
-# Vue 3 + TypeScript + Vite
+# 项目名称
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+简短的项目描述。解释这个项目的主要目的和功能。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 技术栈
 
+- Vue.js
+- TypeScript
+- Axios
+- ESLint (v9.13.0)
+- Oxlint
+- pnpm
+
+## 项目设置
+
+### 前置条件
+
+- Node.js (推荐使用最新的 LTS 版本)
+- pnpm
+
+### 安装
+
+1. 克隆仓库:
+
+### prettier 配置说明
 ```json
 {
   // 超过最大值换行
